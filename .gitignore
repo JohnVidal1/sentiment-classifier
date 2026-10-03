@@ -1,0 +1,8 @@
+build/
+*.exe
+*.o
+DSString_main
+DSString_test
+results.csv
+accuracy.txt
+.vscode/
